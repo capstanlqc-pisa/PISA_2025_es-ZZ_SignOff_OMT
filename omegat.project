@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <!DOCTYPE omegat [
   <!ENTITY ORG "capstanlqc-pisa">
-  <!ENTITY TARGET_LANG "fr">
+  <!ENTITY TARGET_LANG "es-ZZ">
   <!ENTITY THIS_REPO "PISA_2025_fr-ZZ_SignOff_OMT">
   <!ENTITY STEP "SignOff">
 ]>
@@ -26,7 +26,7 @@
         <glossary_file>__DEFAULT__</glossary_file>
         <dictionary_dir>__DEFAULT__</dictionary_dir>
         <source_lang>en</source_lang>
-        <target_lang>es</target_lang>
+        <target_lang>&TARGET_LANG;</target_lang>
         <source_tok>org.omegat.tokenizer.LuceneEnglishTokenizer</source_tok>
         <target_tok>org.omegat.tokenizer.LuceneSpanishTokenizer</target_tok>
         <sentence_seg>true</sentence_seg>
