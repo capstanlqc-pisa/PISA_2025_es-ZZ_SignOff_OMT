@@ -2,7 +2,7 @@
 <!DOCTYPE omegat [
   <!ENTITY ORG "capstanlqc-pisa">
   <!ENTITY TARGET_LANG "es-ZZ">
-  <!ENTITY THIS_REPO "PISA_2025_fr-ZZ_SignOff_OMT">
+  <!ENTITY THIS_REPO "PISA_2025_&TARGET_LANG;_SignOff_OMT">
   <!ENTITY STEP "SignOff">
 ]>
 <omegat>
